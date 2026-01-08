@@ -57,9 +57,9 @@ Fuselage length: 27.17 m
 
 Fan position: 23.09 m from nose (85% station)
 
-Estimated turbulent BL thickness: ~XX mm
+Estimated turbulent BL thickness: ~233.4 mm
 
-Suggested VG height: ~XX mm
+Suggested VG height: ~93.4 mm
 
 (Values will be updated after running initial scripts)
 
